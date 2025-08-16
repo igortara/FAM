@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-31.1.2-Windows-x64-Installer.exe",
+    "install_args": "/S",
+    "version": "31.1.2"
+}

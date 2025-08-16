@@ -41,7 +41,7 @@ def install_package(package_name):
             print("Error: Download link not found in the JSON data.")
             return None
         print(f"Installing package: {package_name}")
-        subprocess.run([open, package_name])
+        os.startfile(package_name)
         return response.json()
     except requests.RequestException as e:
         print(f"Error fetching package {package_name}: {e}")

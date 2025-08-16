@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://videolan.ip-connect.info/vlc/3.0.21/win32/vlc-3.0.21-win32.exe",
+    "install_args": "/S",
+    "version": "3.0.21"
+}

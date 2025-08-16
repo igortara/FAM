@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://download.virtualbox.org/virtualbox/7.2.0/VirtualBox-7.2.0-170228-Win.exe",
+    "install_args": "/S",
+    "version": "7.2.0"
+}

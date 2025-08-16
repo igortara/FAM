@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9.exe",
+    "install_args": "/S",
+    "version": "4.9"
+}
