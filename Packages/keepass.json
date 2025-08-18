@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.57.1/KeePass-2.57.1-Setup.exe/download",
+    "install_args": "/S",
+    "version": "latest"
+}

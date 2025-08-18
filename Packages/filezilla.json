@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://download.filezilla-project.org/client/FileZilla_3.67.0_win64-setup.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

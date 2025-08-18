@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://downloads.vivaldi.com/stable/Vivaldi.6.7.3329.21.x64.exe",
+    "install_args": "/silent",
+    "version": "latest"
+}

@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://github.com/git-for-windows/git/releases/download/v2.50.1.windows.1/Git-2.50.1-64-bit.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

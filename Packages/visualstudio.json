@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://aka.ms/vs/17/release/vs_Community.exe",
+    "install_args": "/quiet --wait --norestart --nocache",
+    "version": "latest"
+}

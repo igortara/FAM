@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://www.battle.net/download/getInstallerForGame?os=win&installer=Battle.net-Setup.exe",
+    "install_args": "/silent",
+    "version": "latest"
+}

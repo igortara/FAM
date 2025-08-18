@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.39.0.msi",
+    "install_args": "/quiet",
+    "version": "latest"
+}

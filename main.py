@@ -5,8 +5,32 @@ import requests
 import argparse
 import getpass
 username = getpass.getuser()
+GITHUB_API_PACKAGES_URL = "https://api.github.com/repos/igortara/FAM/contents/Packages"
 REPOSITORY_URL = "https://raw.githubusercontent.com/igortara/FAM/refs/heads/main/Packages/"
 INSTALLED_PACKAGES_FILE = "installed_packages.txt"
+def get_all_package_files_from_api():
+    print("Fetching package list from GitHub API...")
+    try:
+        response = requests.get(GITHUB_API_PACKAGES_URL)
+        response.raise_for_status()
+        contents = response.json()
+
+        package_names = [] 
+        for item in contents:
+            if item.get("type") == "file" and item.get("name", "").endswith(".json"):
+                name_without_extension = item["name"].replace(".json", "")
+                package_names.append(name_without_extension)
+        return package_names
+    except requests.RequestException as e:
+        print(f"Error fetching package list from GitHub API: {e}")
+        return []
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON response from GitHub API: {e}")
+        print("Please ensure the GitHub API endpoint returns valid JSON.")
+        return []
+    except Exception as e:
+        print(f"An unexpected error occurred while fetching package list: {e}")
+        return []
 def install_url(package_url):
     print(package_url)
     try:
@@ -71,6 +95,14 @@ def main():
 
         else:
             print("Error: no package name provided for installation.")
+    elif action == "list":
+        packages = get_all_package_files_from_api()
+        if packages:
+            print("Available packages:")
+            for package in packages:
+                print(f"- {package}")
+        else:
+            print("No packages available.")
     
 
 if __name__ == "__main__":

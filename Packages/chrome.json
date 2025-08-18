@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
+    "install_args": "/silent /install",
+    "version": "latest"
+}

@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://download.scdn.co/SpotifySetup.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

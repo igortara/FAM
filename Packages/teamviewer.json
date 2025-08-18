@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US",
+    "install_args": "/S",
+    "version": "latest"
+}

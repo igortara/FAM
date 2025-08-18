@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://nmap.org/dist/nmap-7.95-setup.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

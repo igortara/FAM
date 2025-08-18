@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://github.com/tporadowski/redis/releases/download/v7.2.5.2/Redis-x64-7.2.5.2.msi",
+    "install_args": "/quiet",
+    "version": "latest"
+}

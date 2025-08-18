@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://downloads.tuxfamily.org/godotengine/4.3/mono/Godot_v4.3-stable_mono_win64.exe.zip",
+    "install_args": "/S",
+    "version": "latest"
+}

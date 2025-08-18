@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://ubistatic3-a.akamaihd.net/orbit/launcher_installer/UbisoftConnectInstaller.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

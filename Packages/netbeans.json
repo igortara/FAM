@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://downloads.apache.org/netbeans/netbeans-installers/24/Apache-NetBeans-24-bin-windows-x64.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

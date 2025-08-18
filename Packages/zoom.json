@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://zoom.us/client/latest/ZoomInstallerFull.msi",
+    "install_args": "/quiet",
+    "version": "latest"
+}

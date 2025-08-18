@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://1.na.dl.wireshark.org/win64/Wireshark-4.4.0-x64.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

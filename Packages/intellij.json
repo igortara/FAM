@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://download.jetbrains.com/idea/ideaIC-2024.2.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://github.com/ShareX/ShareX/releases/download/v15.0.1/ShareX-15.0.1-setup.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

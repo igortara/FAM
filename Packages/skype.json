@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://go.skype.com/windows.desktop.download",
+    "install_args": "/S",
+    "version": "latest"
+}

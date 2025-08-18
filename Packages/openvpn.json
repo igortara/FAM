@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://swupdate.openvpn.org/community/releases/openvpn-install-2.6.10-I001-amd64.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://www.cisco.com/c/en/us/support/docs/dial-access/anyconnect/anyconnect-win-4.10.06079-predeploy-k9.zip",
+    "install_args": "/S",
+    "version": "latest"
+}

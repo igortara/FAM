@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi",
+    "install_args": "/quiet",
+    "version": "latest"
+}

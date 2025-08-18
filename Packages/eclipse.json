@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/2024-09/R/eclipse-inst-jre-win64.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

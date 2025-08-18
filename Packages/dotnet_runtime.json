@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://download.visualstudio.microsoft.com/download/pr/c7e16cc3-5c1e-43af-8a71-2f045818d8b3/df18f2529da649b4b0e7baf9401e608b/dotnet-runtime-8.0.7-win-x64.exe",
+    "install_args": "/quiet",
+    "version": "latest"
+}

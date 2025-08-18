@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://laptop-updates.brave.com/latest/winx64",
+    "install_args": "/silent",
+    "version": "latest"
+}

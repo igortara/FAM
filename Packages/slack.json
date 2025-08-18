@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://downloads.slack-edge.com/releases_x64/SlackSetup.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

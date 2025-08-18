@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://launchpad.net/veracrypt/trunk/1.26.7/+download/VeraCrypt%20Setup%201.26.7.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

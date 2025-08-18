@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://download.anydesk.com/AnyDesk.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

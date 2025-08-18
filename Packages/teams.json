@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.2184/Teams_windows_x64.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

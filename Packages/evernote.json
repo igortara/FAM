@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://cdn1.evernote.com/boron/win/builds/Evernote-10.92.2-win-ddl-ga-4131-Setup.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

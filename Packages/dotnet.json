@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://download.visualstudio.microsoft.com/download/pr/0c4e49a4-47f4-4d84-863a-86558b1a5cbb/6e093dd221ae49c49ab2c3449a0c99a4/dotnet-sdk-8.0.401-win-x64.exe",
+    "install_args": "/quiet",
+    "version": "latest"
+}

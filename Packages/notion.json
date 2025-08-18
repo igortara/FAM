@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://desktop-release.notion-static.com/Notion%20Setup%202.1.24.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

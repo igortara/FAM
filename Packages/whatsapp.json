@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe",
+    "install_args": "/silent",
+    "version": "latest"
+}

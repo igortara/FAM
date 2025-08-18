@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

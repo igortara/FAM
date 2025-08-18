@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://release.axocdn.com/win64/GitKrakenSetup.exe",
+    "install_args": "/S",
+    "version": "latest"
+}

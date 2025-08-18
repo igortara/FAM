@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://get.opera.com/ftp/pub/opera/desktop/105.0.4970.29/win/Opera_105.0.4970.29_Setup_x64.exe",
+    "install_args": "/silent",
+    "version": "latest"
+}

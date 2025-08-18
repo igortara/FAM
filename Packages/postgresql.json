@@ -1,0 +1,5 @@
+{
+    "downloadlink": "https://get.enterprisedb.com/postgresql/postgresql-16.4-1-windows-x64.exe",
+    "install_args": "/S",
+    "version": "latest"
+}
